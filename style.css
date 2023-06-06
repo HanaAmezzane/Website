@@ -4,7 +4,7 @@ body {
     margin-right: auto;
 }
 #topNav {
-  background: dimgray;
+  background: #a460fc;
   box-shadow: 0px 1px 10px 10px #c898f5;
     /* offset-x | offset-y | blur-radius | spread-radius | color */
   height: auto;
